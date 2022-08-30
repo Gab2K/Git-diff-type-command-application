@@ -1,1 +1,1 @@
-# Git-diff-type-command-application-
+# Git-diff-type-command-application
